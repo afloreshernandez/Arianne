@@ -1,2 +1,1 @@
-# Arianne
-First C# Programming
+C# Code
